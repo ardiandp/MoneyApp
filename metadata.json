@@ -1,0 +1,6 @@
+{
+  "name": "Creator Finance",
+  "description": "Modern personal and small business finance management Android app with offline-first Room database, Google Sheets sync, Debt Center, budget tracking, and financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
